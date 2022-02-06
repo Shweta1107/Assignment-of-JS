@@ -1,0 +1,35 @@
+body{
+    background-color: lightskyblue;
+    text-align: center;
+    font-size: 25px;
+    line-height: 38px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    font-size: 21px;
+    margin: 25px;
+    border-radius: 25px;
+    background-color: purple;
+    color: #fff;
+    padding:12px 19px;
+    width:100px;
+    border: none;
+    cursor: pointer;
+    height:50px;
+}
+#winner{
+    color:green;
+}
+#loser{
+    color:red;
+}
+.results{
+    font-weight: bold;
+}
+.box{
+    position: relative;
+    border-radius: 50%;
+    background-color: red;
+    width:100px;
+    height:100px;
+}
